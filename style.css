@@ -6,8 +6,22 @@
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  background-color: darksalmon;
+  background-size: auto;
+  border: 10px solid #D65123;
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+  }
+
+h2 {
+  font-family: cursive;
 }
 
 img{
-  width: 400px;
+  width: 600px;
+  border: 30px solid #E1714C;
+
 }
